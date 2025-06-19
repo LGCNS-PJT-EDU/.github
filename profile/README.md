@@ -45,10 +45,3 @@
 | 프론트 | React, Zustand |
 | 모니터링 | Prometheus, Grafana |
 | 자동화 | ArgoCD, Terraform, GitHub Actions |
-
-# 📄 문서 자료
-- 수행계획서
-- [요구사항 정의서](../docs/요구사항정의서.xlsx)
-- [WBS](../docs/WBS.xlsx)
-- [인프라 구성도](../docs/TakeIT_인프라_아키텍처.png)
-- 시연 영상
